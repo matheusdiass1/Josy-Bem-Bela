@@ -1,10 +1,10 @@
-# [Nome do Projeto]
+# Josy Bem & Bela
 
-Site institucional responsivo desenvolvido como meu primeiro projeto freelancer para [nome do cliente / tipo de negócio], publicado na Hostinger.
+Site institucional responsivo desenvolvido como meu primeiro projeto freelancer para Josy - Esteticista, publicado na Hostinger.
 
-🔗 **Site no ar:** [https://seudominio.com.br](https://seudominio.com.br)
+🔗 **Site no ar:** https://josybemebela.com/
 
-![Captura de tela do site](./screenshot.png)
+<img src="./assets/preview.png>
 
 ## Sobre o projeto
 
@@ -20,8 +20,8 @@ O objetivo foi criar uma presença online simples, rápida e fácil de usar para
 
 ## Tecnologias utilizadas
 
-- **HTML5**: estrutura semântica das páginas
-- **CSS3**: estilização, variáveis CSS, Flexbox/Grid e media queries
+- **HTML**: estrutura semântica das páginas
+- **CSS**: estilização, variáveis CSS, Flexbox/Grid e media queries
 - **JavaScript**: interações da página
 - **Git e GitHub**: controle de versão
 - **Hostinger**: hospedagem
@@ -57,20 +57,10 @@ Este projeto me ajudou a praticar o ciclo completo de um trabalho real, do layou
 - Entender problemas de **cache** em produção: o site funcionava no Live Server, mas a versão publicada exibia o CSS antigo até o cache da hospedagem ser limpo
 - Publicar um site em hospedagem e testar em diferentes tamanhos de tela
 
-## Próximos passos
-
-- [ ] Melhorar a performance (otimização de imagens)
-- [ ] Adicionar SEO básico (meta tags e Open Graph)
-- [ ] Integrar formulário de contato funcional
-
 ## Autor
 
-**[Seu Nome]**
+**Matheus Dias**
 
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- E-mail: seu-email@exemplo.com
+- LinkedIn: [linkedin.com/in/matheus-oliveira-dias/](https://linkedin.com/in/matheus-oliveira-dias/)
+- GitHub: [github.com/seu-usuario](https://github.com/matheusdiass1)
 
----
-
-Feito com 💻 e muito aprendizado.
