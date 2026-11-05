@@ -1,10 +1,11 @@
-# Josy Bem & Bela
+# ✨ Josy Bem & Bela
 
 Site institucional responsivo desenvolvido como meu primeiro projeto freelancer para Josy - Esteticista, publicado na Hostinger.
 
 🔗 **Site no ar:** https://josybemebela.com/
 
-<img src="./assets/preview.png>
+![Preview do projeto](./assets/preview.png)
+
 
 ## Sobre o projeto
 
@@ -62,5 +63,5 @@ Este projeto me ajudou a praticar o ciclo completo de um trabalho real, do layou
 **Matheus Dias**
 
 - LinkedIn: [linkedin.com/in/matheus-oliveira-dias/](https://linkedin.com/in/matheus-oliveira-dias/)
-- GitHub: [github.com/seu-usuario](https://github.com/matheusdiass1)
+- GitHub: [github.com/matheusdiass1](https://github.com/matheusdiass1)
 
